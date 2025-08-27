@@ -83,13 +83,6 @@ through two interactive dashboards:
 
 ------------------------------------------------------------------------
 
-## 📷 Sample Dashboards
-
--   **Product Details Dashboard**\
--   **Product Sales Dashboard**
-
-------------------------------------------------------------------------
-
 ✍️ Developed by **Mahmoud Elzayat**\
 🔗 [LinkedIn](https://www.linkedin.com/in/mahmoud-elzayat-data-analysis)
 \| [GitHub](https://github.com/M-Elzayat)
