@@ -1,4 +1,4 @@
-# 👗 Wish Summer Clothing Sales Dashboard
+# 👕👗👟 Wish Summer Clothing Sales Dashboard
 
 ## 📌 Project Overview
 
@@ -83,6 +83,15 @@ through two interactive dashboards:
 
 ------------------------------------------------------------------------
 
-✍️ Developed by **Mahmoud Elzayat**\
-🔗 [LinkedIn](https://www.linkedin.com/in/mahmoud-elzayat-data-analysis)
-\| [GitHub](https://github.com/M-Elzayat)
+## 📬 Contact
+
+For questions, collaborations, or feedback:
+
+**Mahmoud Mohamed Fawzy Zaki Elzayat**  
+📧 Connect via [LinkedIn](https://www.linkedin.com/in/mahmoud-elzayat-data-analysis)  
+🔗 GitHub: [M-Elzayat](https://github.com/M-Elzayat)
+
+## License
+
+This project is licensed under the Creative Commons BY-NC-ND 4.0 License.  
+© Mahmoud Mohamed Fawzy Elzayat, 2025 — All rights reserved.
